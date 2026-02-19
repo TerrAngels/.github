@@ -1,25 +1,41 @@
 # TerrAngels
 
-**Autonomous systems for environmental restoration at scale.**
+**Autonomous robotics & AI for environmental systems.**
 
-We develop drone technology that addresses environmental challenges beyond human capacity to solve manually—enabling precision agriculture, ecosystem restoration, and real-time monitoring across landscapes that were previously inaccessible.
-
----
-
-### Mission
-
-Environmental degradation is outpacing our ability to respond. TerrAngels closes that gap with purpose-built autonomous systems that restore ecosystems, optimize agricultural operations, and provide actionable intelligence from the sky.
-
-### Capabilities
-
-- **Precision Agriculture** — Optimizing inputs, reducing waste, and improving yields through targeted application and continuous monitoring
-- **Reforestation & Restoration** — Delivering native species to degraded and remote landscapes at scale
-- **Environmental Monitoring** — Real-time ecological assessment, change detection, and data collection for informed decision-making
-
-### Approach
-
-We combine edge computing, satellite connectivity, and advanced sensing to operate autonomously at scale. Our systems are designed for the environments that matter most: forests, agricultural land, and ecosystems requiring intervention.
+We build intelligent machines that operate where humans can't—autonomously restoring ecosystems, optimizing agricultural operations, and generating real-time environmental intelligence at planetary scale.
 
 ---
 
-<sub>Turning innovation into impact.</sub>
+## Core Technology
+
+### Autonomous Flight Systems
+Fully autonomous drone platforms with swarm coordination, real-time path planning, and edge computing. Our systems operate independently in GPS-denied environments, coordinate multi-vehicle missions, and adapt dynamically to changing conditions without human intervention.
+
+### AI & Machine Learning
+Computer vision for species identification, terrain analysis, and precision targeting. Predictive models for ecological forecasting and resource optimization. Intelligent decision-making systems that improve with every mission.
+
+### Digital Twin Platform
+Real-time environmental modeling and simulation. We construct living digital replicas of operational environments—integrating sensor data, satellite imagery, and ground truth to enable data-driven decision-making and predictive operations.
+
+### Advanced Sensing
+Multispectral imaging, LiDAR terrain mapping, and environmental sensor arrays. We capture data across the electromagnetic spectrum to understand ecosystems at a level of detail previously impossible.
+
+---
+
+## Applications
+
+| Domain | Capability |
+|--------|------------|
+| **Precision Agriculture** | Targeted application, yield optimization, continuous crop monitoring |
+| **Ecosystem Restoration** | Autonomous reforestation, invasive species management, native habitat recovery |
+| **Environmental Intelligence** | Real-time monitoring, change detection, ecological assessment at scale |
+
+---
+
+## Architecture
+
+Our systems are designed for edge autonomy—processing data onboard, making decisions in real-time, and operating reliably in remote and challenging environments. Satellite connectivity enables global operations while maintaining the low-latency response required for precision robotics.
+
+---
+
+<sub>Building the machines that restore the planet.</sub>
