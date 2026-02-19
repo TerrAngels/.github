@@ -1,24 +1,24 @@
-# 🌿 TerrAngels
+# TerrAngels
 
-**Drone manufacturing for environmental restoration.**
+**Autonomous systems for environmental restoration at scale.**
 
-We build autonomous systems that restore ecosystems at scale — reforestation, invasive species management, and precision conservation from the sky.
+We develop drone technology that addresses environmental challenges beyond human capacity to solve manually—enabling precision agriculture, ecosystem restoration, and real-time monitoring across landscapes that were previously inaccessible.
 
 ---
 
-### Our Mission
+### Mission
 
-The planet faces environmental challenges that exceed human capacity to address manually. TerrAngels bridges that gap with drone technology purpose-built for restoration work.
+Environmental degradation is outpacing our ability to respond. TerrAngels closes that gap with purpose-built autonomous systems that restore ecosystems, optimize agricultural operations, and provide actionable intelligence from the sky.
 
-### What We Build
+### Capabilities
 
-- **Seed dispersal systems** — Delivering native species to remote and degraded landscapes
-- **Precision monitoring** — Real-time ecological assessment and change detection  
-- **Targeted treatment** — Applying treatments exactly where needed, minimizing waste and impact
+- **Precision Agriculture** — Optimizing inputs, reducing waste, and improving yields through targeted application and continuous monitoring
+- **Reforestation & Restoration** — Delivering native species to degraded and remote landscapes at scale
+- **Environmental Monitoring** — Real-time ecological assessment, change detection, and data collection for informed decision-making
 
-### Based in Hawaiʻi 🌺
+### Approach
 
-Our home islands are a living laboratory for restoration technology. From invasive species threatening native forests to post-wildfire recovery, Hawaiʻi's challenges inform everything we design.
+We combine edge computing, satellite connectivity, and advanced sensing to operate autonomously at scale. Our systems are designed for the environments that matter most: forests, agricultural land, and ecosystems requiring intervention.
 
 ---
 
